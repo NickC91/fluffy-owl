@@ -1,11 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import Phaser from 'phaser'
+import { createRoot } from 'react-dom/client';
+import App from './App';
 
-new Phaser.Game()
+const root = createRoot(document.getElementById('root'));
 
-function App() {
-  return <h1>Hello Game!</h1>;
-}
-
-ReactDOM.render(<App />, document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);

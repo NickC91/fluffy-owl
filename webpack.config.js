@@ -27,6 +27,10 @@ module.exports = {
       {
         test: /\.(png|svg|jpg|gif)$/,
         use: ['file-loader']
+      },
+      {
+        test: /\.css$/,
+        use: ['style-loader', 'css-loader']
       }
     ]
   },
@@ -42,7 +46,7 @@ module.exports = {
     new CopyPlugin({
       patterns: [
         {
-          from: path.resolve(__dirname, 'src'),
+          from: path.resolve(__dirname, 'src/assets'),
           to: path.resolve(__dirname, 'build/assets')
         }
       ],
