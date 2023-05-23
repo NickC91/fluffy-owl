@@ -21,4 +21,4 @@ Il punteggio massimo viene salvato nel local storage, quindi fa riferimento al p
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
-Il gioco è raggiungibile a questo indirizzo: <a href="__">Netlify</a>
+Il gioco è raggiungibile a questo indirizzo: <a href="https://fluffy-owl.netlify.app/">Netlify</a>
