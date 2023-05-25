@@ -16,6 +16,6 @@ Il punteggio massimo viene salvato nel local storage, quindi fa riferimento al p
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Phaser](https://img.shields.io/badge/phaser-#96bee8.svg?style=for-the-badge&logo=phaser&logoColor=#bce9f9)
+![phaserIcon](https://github.com/NickC91/fluffy-owl/assets/107569159/33fdcb11-7685-45fb-a529-c552409d941f)
 
 Il gioco è raggiungibile a questo indirizzo: <a href="https://fluffy-owl.netlify.app/">Netlify</a>
